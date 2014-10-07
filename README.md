@@ -87,6 +87,10 @@ $ ./bin/shaaaaaaaaaaaaa bad-domain
 }
 ```
 
+<img src=http://imgur.com/lBIagSx>
+##Shaaaaaaaaaaaaa Chrome Extension
+Version one. [Available on Chrome Web Store](https://chrome.google.com/webstore/detail/check-ssl/adlogjmkkcancjpododcnjndnmkooghi) for download.
+
 
 ## Author
 
