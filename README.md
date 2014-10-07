@@ -1,4 +1,3 @@
-<img src=https://github.com/danigrant/shaaaaaaaaaaaaa/blob/master/chrome-extension/icon.png>
 ## SHAAAAAAAAAAAAA
 
 This repository contains the code for **[shaaaaaaaaaaaaa.com](https://shaaaaaaaaaaaaa.com)**, a tool to check whether your site's certificate is signed using **SHA-1** (common, bad) or **SHA-2** (rare, good).
@@ -88,6 +87,8 @@ $ ./bin/shaaaaaaaaaaaaa bad-domain
 }
 ```
 
+
+<img src=https://github.com/danigrant/shaaaaaaaaaaaaa/blob/master/chrome-extension/icon.png>
 ##Shaaaaaaaaaaaaa Chrome Extension
 Version one. [Available on Chrome Web Store](https://chrome.google.com/webstore/detail/check-ssl/adlogjmkkcancjpododcnjndnmkooghi) for download.
 
