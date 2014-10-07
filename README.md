@@ -87,8 +87,6 @@ $ ./bin/shaaaaaaaaaaaaa bad-domain
 }
 ```
 
-
-<img src=https://github.com/danigrant/shaaaaaaaaaaaaa/blob/master/chrome-extension/icon.png>
 ##Shaaaaaaaaaaaaa Chrome Extension
 Version one. [Available on Chrome Web Store](https://chrome.google.com/webstore/detail/check-ssl/adlogjmkkcancjpododcnjndnmkooghi) for download.
 
